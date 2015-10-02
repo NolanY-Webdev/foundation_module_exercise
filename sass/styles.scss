@@ -5,8 +5,55 @@
 @import 'foundation/components/visibility';
 
 
-$dark : #000000;
+$dark-color : #111111;
 
 body {
-  background: $dark;
+  background: $dark-color;
+}
+
+h1 {
+    color: #F1F1F1;
+}
+
+.mod1, .mod2, .mod3, .mod4, .mod5, .mod6, .mod7{
+  border: 2px solid white;
+  padding: 40px;
+  margin-top: 20px;
+}
+
+.mod1{
+  background: green;
+}
+
+.mod2{
+  background: gray;
+}
+
+.mod3{
+  background: teal;
+}
+
+.mod4{
+  background: orange;
+}
+
+.mod5{
+  background: white;
+}
+
+.mod6{
+  background: purple;
+}
+
+.mod7{
+  background: yellow;
+}
+
+.bigbox{
+  padding-bottom:300px;
+}
+
+.medboxstretch{
+  margin-left: 15px;
+  margin-right: 15px;
 }

@@ -11415,4 +11415,51 @@ th.hide-for-touch {
 
 /* line 10, stdin */
 body {
-  background: #000000; }
+  background: #111111; }
+
+/* line 14, stdin */
+h1 {
+  color: #F1F1F1; }
+
+/* line 18, stdin */
+.mod1, .mod2, .mod3, .mod4, .mod5, .mod6, .mod7 {
+  border: 2px solid white;
+  padding: 40px;
+  margin-top: 20px; }
+
+/* line 24, stdin */
+.mod1 {
+  background: green; }
+
+/* line 28, stdin */
+.mod2 {
+  background: gray; }
+
+/* line 32, stdin */
+.mod3 {
+  background: teal; }
+
+/* line 36, stdin */
+.mod4 {
+  background: orange; }
+
+/* line 40, stdin */
+.mod5 {
+  background: white; }
+
+/* line 44, stdin */
+.mod6 {
+  background: purple; }
+
+/* line 48, stdin */
+.mod7 {
+  background: yellow; }
+
+/* line 52, stdin */
+.bigbox {
+  padding-bottom: 300px; }
+
+/* line 56, stdin */
+.medboxstretch {
+  margin-left: 15px;
+  margin-right: 15px; }
