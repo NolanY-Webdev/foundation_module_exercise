@@ -1,0 +1,12 @@
+@import "partials/settings";
+@import 'foundation/components/grid';
+@import 'foundation/components/buttons';
+@import 'foundation/components/top-bar';
+@import 'foundation/components/visibility';
+
+
+$dark : #000000;
+
+body {
+  background: $dark;
+}
